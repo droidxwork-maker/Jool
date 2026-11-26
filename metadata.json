@@ -1,0 +1,6 @@
+{
+  "name": "Iron Warfare",
+  "description": "A complete 2D top-down real-time strategy (RTS) game in landscape mode inspired by Rusted Warfare, featuring procedural maps, base building, smart A* pathfinding, tactical AI, synthesized sound effects, and local save/load.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
